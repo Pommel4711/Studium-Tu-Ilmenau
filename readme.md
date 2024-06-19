@@ -1,8 +1,12 @@
 # Studium-Tu-Ilmenau
 
 
+<div style="text-align: center;">
 
 <img src="./Image_LICENSE/technische-universitat-ilmenau-seeklogo.svg" alt="TU Ilmenau Logo" width="30%">
+
+</div>
+
 
 Dieses Repository enthält alle Projekte und Aufgaben aus meinem Studium an der Technischen Universität Ilmenau. Die enthaltenen Kurse und Projekte sind unten aufgelistet.
 
