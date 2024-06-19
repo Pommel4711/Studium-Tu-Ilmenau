@@ -40,14 +40,14 @@ In diesem Kurs befassen wir uns mit verschiedenen Methoden und Algorithmen der N
 Das Repository ist nach Kursen strukturiert:
 
 
-* Studium-Tu-Ilmenau
-    * MSP1
-        * Aufgaben
-        * Pruefungsaufgabe
-    * Neuroinformatik
-        * Praktikum
-            * Kohonen-Ring.ipynb
-            * MLP.ipynb
+- 📂 Studium-Tu-Ilmenau
+  - 📂 MSP1
+    - 📂 Aufgaben
+    - 📂 Prüfungsaufgabe
+  - 📂 Neuroinformatik
+    - 📂 Praktikum
+      - 📄 Kohonen-Ring.ipynb
+      - 📄 MLP.ipynb
 
 ## Kontakt
 
