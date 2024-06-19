@@ -1,7 +1,7 @@
 # Studium-Tu-Ilmenau
 
 
-<div style="text-align: center;">
+<div align="center">
 
 <img src="./Image_LICENSE/technische-universitat-ilmenau-seeklogo.svg" alt="TU Ilmenau Logo" width="30%">
 
